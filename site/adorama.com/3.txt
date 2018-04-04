@@ -1,0 +1,2114 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 9 ]><html class="ie9" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]-->
+
+<head>
+<!-- // --><script type="text/javascript">
+<!--
+	document.write('<script src="/__ssobj/ard.png?6540676090313180221_1-500-'+(16750*90917+10074)+'&n=1'+'">\x3C/script\x3E');
+//-->
+<!-- // --></script>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <script>document.cookie = 'a=p; path=/'; window.adrma = {}; </script>
+    <script>
+       window["adrum-start-time"] = new Date().getTime();
+       window["adrum-app-key"] = "AD-AAB-AAC-BXK";
+    </script>
+    
+    <script>
+        (function(){
+            var metaTag = document.createElement("meta"),
+                fullMode = document.cookie.indexOf("rwd=full") !== -1;
+            metaTag.name = "viewport"
+            metaTag.content = fullMode?"width=1040": "initial-scale=1.0, width=device-width";
+            document.getElementsByTagName("head")[0].appendChild(metaTag);
+            if(fullMode){
+                setTimeout(function(){
+                    try {
+                        document.getElementsByTagName("body")[0].classList.add("rwd-mode-false");
+                    }catch(e){}
+                }, 100);
+            }
+        })();
+    </script>  
+    <!--[if lt IE 9]><script src="/sup/js/polyfills/html5shiv.js"></script><![endif]-->
+    <meta charset="utf-8">
+
+    <script>window.isMobile = /Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);</script>
+    
+    
+        <link href="/image/lsa/ui/faviconADO.png" rel="icon" type="image/png" />
+    
+
+    <!--[if lte IE 8]><link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400" /><link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:700" /><![endif]--> 
+        <link rel="stylesheet" type="text/css" href="https://www.adorama.com/Als.Mvc/nspc/combres.axd/AD_MainCss/-/?svfor=1day&svcfor=1day&cacheVersion=460&ID=11960"/>
+                      
+        <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css"/>
+    
+    <link rel="manifest" href="/sup/vizury/manifest.json">
+    
+
+        
+
+	<meta name="description" content="Same Day Shipping 'til 8PM! The best combination of quality services, vast selection, knowledgeable staff and competitive pricing. Adorama - More Than A Camera Store" />
+    
+        <meta name="keywords" content="digital cameras, cameras, digital lenses, SLR lenses, digital photography, photographer, photographers, low  cost, cheap, bargain, 35mm camera, Canon, Fujifilm, JVC, Kodak, Konica Minolta, Nikon, Olympus, Pentax, Samsung, Sony, New York, NY, US, USA, global, worldwide, world wide, mail order, Authorized Dealer, dealers, store, stores, retailer, retailers, shop, shops, shopping, compare, comparison, buy, trade in, voucher, vouchers, Adorama, AdoramaCamera, Adorama Camera" />
+    
+    <title> 
+        26466 B Nikon Coolpix AW120 Digital Camera, 16MP, 5x Optical Zoom, Blue - Bundle With 32GB class 10 SDHC Card, Camera Case, Spare Battery, Cleaning Kit, Screen Protector, Memory Wallet, Table Top Tripod
+    </title>
+    
+                 <link rel="canonical" href="http://www.adorama.com/RecommendFor/inkaw120blb.html" />
+		
+    
+
+    <!-- CSS Combress -->
+    <link rel="stylesheet" type="text/css" href="https://www.adorama.com/Als.Mvc/nspc/combres.axd/AD_RevisedListingPageCss/-/?svfor=1day&svcfor=1day&cacheVersion=460&ID=11960"/>
+        
+<style>
+.stock-special{
+  padding: 0 20px;
+  line-height: 1.4;
+  font-weight: normal;
+  color: #333e49!important;
+}
+.stock-special:hover{
+  font-weight:normal!important;
+}
+.stock-special b{
+  display: block;
+  font-size: 1.125em!important;
+    color: #5dac00;
+}
+.availability a:first-of-type{
+  font-weight: 700;
+  padding-bottom: 2px;
+  display: inline-block;
+}
+.stock{
+  color: #333e49;
+  font-size: .815rem!important;
+}
+@media screen and (max-width: 599px){
+.product-shipping strong{
+  font-weight:bold;
+}
+.availability.ss-modified-1 > b{
+  font-weight: normal;
+  font-size: .875em;
+}
+}
+</style>
+<script>window.SS=window.SS||{};SS.requireCoreJs=function(callback){if(window.SS&&SS.EventTrack){callback();}else{var coreJs=document.createElement('script');coreJs.type="text/javascript";coreJs.src="/__ssobj/static/sitespect-libraries-v2.js";coreJs.async=true;coreJs.addEventListener("load",function(event){callback();});document.getElementsByTagName('head')[0].appendChild(coreJs);}}</script></head>
+<body class='plp' itemscope="" itemtype="http://schema.org/WebPage">
+    <!-- NEW HEADER2015 start --><section class="level0" xmlns:xlink="http://www.w3.org/1999/xlink"><div class="wrap"><p><strong>Adorama will be closed in observance of Passover from Friday afternoon, March 30th until Saturday, April 7th. All Orders placed during those times will be shipped after we re-open. <a href="/searchsite/popups/global.aspx?type=passover_2018" class="popup" data-popup-class="popup800" title="Passover Holiday Schedule">View our holiday shipping schedule.</a></strong></p><a href="#" class="action hide-dismiss" data-action="bindToggleEle,dismissLevel0" data-target=".level0" data-toggled-class="hide" data-icon="X" title="Dismiss this Message"><span>Dismiss this Message</span></a></div></section><script xmlns:xlink="http://www.w3.org/1999/xlink">
+	 if (document.cookie && document.cookie.match("hideLevel0")) {
+				var level0 = document.querySelectorAll(".level0");
+				if (level0.length){
+					level0[0].style.display = "none";
+				}
+			}
+			</script><header id="header" class="cf" xmlns:xlink="http://www.w3.org/1999/xlink"><div id="headerInner"><div id="headerLevel1" class="headerLevel1 cf"><a class="flLeft logoContainer" href="/"><img class="logo flLeft trackEvent" src="//www.adorama.com/image/lsa/ui/adorama-logo.svg" alt="Adorama Logo" title="Adorama Camera, Inc - Logo" data-trackdata="Global Navigation,Navigation Level 1,Adorama logo" /></a><ul class="headerEco flLeft"><li class="eco-shop active" data-context="shop"><a data-icon="j" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 1,Shop" href="/">Shop</a></li><li class="eco-rent" data-context="rent"><a data-icon="e" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 1,Rent" href="https://www.adoramarentals.com/">Rent</a></li><li class="eco-used" data-context="used"><a data-icon="י" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 1,Used" href="/c/Used">Used</a></li><li class="eco-business" data-context="business"><a data-icon="I" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 1,Business" href="/abs">Business</a></li><li class="eco-print" data-context="print"><a data-icon="b" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 1,Print" href="https://www.adoramapix.com/">Print</a></li><li class="eco-learn" data-context="learn"><a data-icon="L" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 1,Learn" href="/alc/">Learn</a></li></ul><div class="promo-container vip360-header flLeft"><a class="trackEvent promo-click-by-8 popup" data-icon="m" href="/g/VIP360-NEW"><strong>VIP360 - 2 Day Delivery<span> on Thousands of Items</span></strong></a></div><div id="chat-placeholder"> </div><aside class="head-help flRight"><span class="head-help-links show-tips"><a class="head-help-link trackEvent action" href="#" data-trackdata="Global Navigation,Navigation Level 1,Help Links" data-action="bindToggleEle" data-target=".show-tips" data-toggled-class="shown">Help Links</a><div class="show-tips-show help-menu"><a href="#" class="help-nav-close action" data-action="bindToggleEle" data-target=".show-tips" data-toggled-class="shown" data-icon="x"></a><h5><strong>Talk to Us</strong>
+			  We're Here to Help
+			</h5><ul><li data-icon="t"><strong>Want to call?</strong><span class="tel-tollfree">
+				  {$phoneNumber}
+				</span></li><li data-icon="Q"><strong>Send us a message</strong><span><a class="trackEvent" data-trackdata="Global Navigation,Navigation Level 1,Email Us" href="/help/contactus">Email Us</a></span></li><li data-icon="d"><strong>Checking up on your order?</strong><span><a class="trackEvent" data-trackdata="Global Navigation,Navigation Level 1,Lookup order status" href="https://www.adorama.com/trackOrder">Lookup order status</a></span></li><li data-icon="`"><strong>Returning Items?</strong><span><a class="trackEvent" data-trackdata="Global Navigation,Navigation Level 1,See return instructions" href="/help/returnPolicy">See return instructions</a></span></li><li data-icon="p"><strong>See us in person</strong><span><a class="trackEvent" data-trackdata="Global Navigation,Navigation Level 1,Visit our NYC store" href="/nycStore">Visit our NYC store</a></span></li><li data-icon="0"><strong>Found an issue with our website?</strong><span><a class="trackEvent popup" data-trackdata="Global Navigation,Navigation Level 1,Send us feedback" href="/sup/static/feedback.html" rel="popup500 feedbackPopup" title="General Feedback">Send us feedback</a></span></li><li data-icon="'"><strong>Need more help?</strong><span><a class="trackEvent" data-trackData="Global Navigation,Navigation Level 1,Explore Customer Service" href="/help" title="Customer Service">Explore Customer Service</a></span></li></ul></div></span><div class="head-phone" data-icon="t"><strong class="head-tollfree tel-tollfree">800-223-2500</strong><span class="head-local-tel tel-local"></span></div></aside></div><div id="headerLevel2" class="headerLevel2 cf"><div class="eco-context show" id="context-shop"><a href="/" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Home">Home</a><a href="/nycStore" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,NYC Store">NYC Store</a><a href="/edu" class="trackEvent cKeys" data-trackdata="Global Navigation,Navigation Level 2,Students/Educators" data-keys="Mode=edu">EDU</a><a href="/#clearMode" class="trackEvent fse-exit cKeys" data-trackdata="Global Navigation,Navigation Level 2,Default" data-keys="Mode=" /><a href="https://www.adorama.com/g/VIP360-NEW" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,VIP">VIP</a></div><div class="eco-context" id="context-learn"><a href="/alc" id="ALCLearn" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Learning Center">Learning Center</a><a href="/alc/category/AdoramaTV" id="AdoramaTV" class="trackEvent" data-trackdata="Global Navigation,AdoramaTV">AdoramaTV</a><a href="/alc/events" class="trackEvent" data-trackdata="Global Navigation">Events</a></div><div class="eco-context" id="context-business"><a href="/corporate" id="ABScorp" class="trackEvent cKeys level2-corp" data-trackData="Global Navigation,Navigation Level 2,Business,Corporate" data-keys="Mode=corp">Corporate</a><a href="/education" id="ABSedu" class="trackEvent cKeys level2-edu" data-trackData="Global Navigation,Navigation Level 2,Business,Education" data-keys="Mode=edub">Education</a><a href="/government" id="ABSgov" class="trackEvent cKeys level2-gov" data-trackData="Global Navigation,Navigation Level 2,Business,Government" data-keys="Mode=gov">Government</a><a href="/#clearMode" class="trackEvent fse-exit cKeys" data-trackdata="Global Navigation,Navigation Level 2,Default" data-keys="Mode=" /></div><div class="eco-context" id="context-print"><a href="https://www.adoramapix.com/app/products/photo-books" id="PhotoBooks" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Photo Books">Photo Books</a><a href="https://www.adoramapix.com/app/products/flush-mount-albums" id="PhotoAlbums" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Photo Albums">Photo Albums</a><a href="https://www.adoramapix.com/photo-prints" id="PhotoPrints" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Photo Prints">Photo Prints</a><a href="https://www.adoramapix.com/metal-prints" id="MetalPrints" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Metal Prints">Metal Prints</a><a href="https://www.adoramapix.com/app/products/canvas-prints" id="CanvasPrints" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Canvas Prints">Canvas Prints</a><a href="https://www.adoramapix.com/app/products/greeting-cards" id="GreetingCards" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Greeting Cards">Greeting Cards</a></div><div class="eco-context" id="context-rent"><a href="https://www.adoramarentals.com" id="RentOnline" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Rent Online">Rent Online</a><a href="https://www.adoramarentals.com/Info/Hours.html" id="HoursCalendar" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Hours &amp; Calendar">Hours &amp; Calendar</a><a href="https://www.adoramarentals.com/ARC_PRICEPORT_2013-1ST.pdf" id="Pricing" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Pricing">Pricing</a></div><div class="eco-context" id="context-used"><a href="https://www.adorama.com/pages/usedQuote" id="Sell" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Sell">Sell</a><a href="/Used" id="Buy" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Buy">Buy</a><a href="https://www.adorama.com/pages/usedQuote" id="Trade" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Trade">Trade</a><a href="https://www.adorama.com/pages/usedQuote" id="GetQuote" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 2,Get a Quote">Get a Quote</a></div></div><div id="headerLevel3" class="headerLevel3 cf"><div class="departments-nav head-componant flLeft toggle-hover "><span class="header-toggle-button toggle-icon toggle-department">
+              Shop <em>By </em><strong>Department</strong></span><div class="toggled-hover"><ul class="catagoryNav"><li class="rwd-cat-parent toggle-hover"><a href="#" data-icon="C">Shop by Department</a></li><li class="cat1 toggle-hover " data-id="cat_67665" data-sensitivity="0"><a href="/c/Cameras" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Camera">Cameras</a></li><li class="cat2 toggle-hover " data-id="cat_59546" data-sensitivity="0"><a href="/c/Lenses" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Lenses">Lenses</a></li><li class="cat3 toggle-hover " data-id="cat_49280" data-sensitivity="0"><a href="/c/Video-Equipment" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Pro Video">Pro Video</a></li><li class="cat4 toggle-hover " data-id="cat_41878" data-sensitivity="0"><a href="/c/Professional-Audio" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Pro Audio">Pro Audio</a></li><li class="cat5 toggle-hover rwd-cat-secondary" data-id="cat_64217" data-sensitivity="0"><a href="/c/Lighting-and-Studio" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Studio &amp;amp; Lighting">Studio &amp; Lighting</a></li><li class="cat6 toggle-hover rwd-cat-secondary" data-id="cat_61930" data-sensitivity="0"><a href="/c/Tripods-and-Supports" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Tripods">Tripods</a></li><li class="cat7 toggle-hover " data-id="cat_94027" data-sensitivity="0"><a href="/c/Professional-Audio/Musical-Instruments" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Musical Instruments">Musical Instruments</a></li><li class="cat8 toggle-hover rwd-cat-secondary" data-id="cat_55607" data-sensitivity="0"><a href="/c/Computers" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Computers">Computers</a></li><li class="cat9 toggle-hover " data-id="cat_50198" data-sensitivity="0"><a href="/c/Video-Equipment/Surveillance" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Surveillance">Surveillance</a></li><li class="cat10 toggle-hover rwd-cat-secondary" data-id="cat_71129" data-sensitivity="0"><a href="/c/Binoculars-and-Scopes" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Scopes &amp;amp; Optics">Scopes &amp; Optics</a></li><li class="cat11 toggle-hover rwd-cat-secondary" data-id="cat_61208" data-sensitivity="0"><a href="/c/Printers-and-Scanners" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Printers &amp;amp; Inks">Printers &amp; Inks</a></li><li class="cat12 toggle-hover " data-id="cat_119996" data-sensitivity="0"><a href="/c/Drones-and-Action-Cameras" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Drones &amp;amp; Action Cameras">Drones &amp; Action Cameras</a></li><li class="cat13 toggle-hover toggle-hover-on" data-sensitivity="0"><a>More</a><div class="toggled-hover nav-menu megaMenu"><h2>More links</h2><ul><li><a href="/c/Video-Equipment/Camcorders" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Camcorders">Camcorders</a></li><li><a href="/c/Albums-and-Frames-and-Storage" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Albums, Storage &amp;amp; Frames">Albums, Storage &amp; Frames</a></li><li><a href="/c/Batteries-and-Power-Supplies" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Batteries &amp;amp; Power Supplies">Batteries &amp; Power Supplies</a></li><li><a href="/c/Films-and-Darkroom" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Film &amp;amp; Darkroom">Film &amp; Darkroom</a></li><li><a href="/c/Underwater-Equipment" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Underwater">Underwater</a></li><li><a href="/c/Automotive-and-Marine-Accessories" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Auto &amp;amp; Marine Accessories">Auto &amp; Marine Accessories</a></li></ul><ul><li><a href="/c/Binoculars-and-telescopes/Forensic-LE-Military-and-Shooting-Equipment" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Forensic &amp;amp; Shooting Equipment">Forensic &amp; Shooting Equipment</a></li><li><a href="/c/Portable-Electronics" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Portable Entertainment">Portable Entertainment</a></li><li><a href="/c/TVs-and-Home-Entertainment/Home-Theater" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Home Theater">Home Theater</a></li><li><a href="/c/TVs-and-Home-Entertainment/Home-Audio" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Home Audio">Home Audio</a></li><li><a href="/c/Office-Equipment" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Office Center">Office Center</a></li><li><a href="/c/Bags-and-Cases-and-Apparel" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,Bags &amp;amp; Cases">Bags &amp; Cases</a></li><li><a href="/c/TVs-and-Home-Entertainment" class="trackEvent" data-trackdata="Global Navigation|Navigation Level 3,More,Column 2,TV &amp;amp; Entertainment">Home Entertainment</a></li></ul></div></li><li class="rwd-cat"><a href="/c/Portable-Electronics">Portable Entertainment</a></li><li class="rwd-cat rwd-cat-secondary"><a href="/c/TVs-and-Home-Entertainment/Home-Theater">Home Theater</a></li><li class="rwd-cat rwd-cat-secondary"><a href="/c/TVs-and-Home-Entertainment/Home-Audio">Home Audio</a></li><li class="rwd-cat"><a class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Used" href="/used">Shop Used</a></li><li class="rwd-cat rwd-cat-seemore rwd-cat-secondary"><a data-icon="=" class="action" data-action="bindToggleEle" data-target=".rwd-cat-secondary" data-toggled-class="rwd-cat-secondary">See all departments</a></li><li class="rwd-cat-parent toggle-hover"><a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount" data-icon="7">My Account</a></li><li class="rwd-cat show-if-logged-out"><a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount">Sign in</a></li><li class="rwd-cat"><a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount#wishlist">Wish List</a></li><li class="rwd-cat"><a href="http://www.adorama.com/trackOrder">Order Status</a></li><li class="rwd-cat"><a href="http://www.adorama.com/help/faq">Help</a></li><li class="rwd-cat nav-logged-in"><a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount#signout">Sign out</a></li><li class="rwd-cat-parent toggle-hover"><a href="#" data-icon="W">Services</a></li><li class="rwd-cat"><a href="https://www.adoramarentals.com/">Rent</a></li><li class="rwd-cat"><a href="/sell">Used</a></li><li class="rwd-cat"><a href="/abs">Business</a></li><li class="rwd-cat"><a href="http://adoramapix.com">Print</a></li><li class="rwd-cat"><a href="/alc">Learn</a></li><li class="rwd-cat-parent toggle-hover"><a href="/specials" data-icon="4">Deals</a></li></ul></div></div><span class="rwd-search action" data-icon="s" data-action="bindToggleEle" data-target="body" data-toggled-class="rwd-search-active"> </span><form id="globalSearch" class="head-componant head-search-form flLeft" action="//www.adorama.com/l/" method="get"><input required="" id="searchinfo" class="search-input" maxlength="100" type="text" name="searchinfo" value="" placeholder="Search keywords or item #" /><a href="" data-icon="X" class="reset-search-form action hide" data-action="clearSearchField"><label /></a><button type="submit" class="search-submit">s</button></form><div class="head-componant head-deals flLeft nav-drop-container toggle-hover"><span class="header-toggle-button toggle-icon head-deals-toggle button-white">Deals</span><div class="toggled-hover nav-menu nav-drop"><ul><li data-icon="&amp;"><a href="/specials/l/" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Specials">Specials</a></li><li data-icon="8"><a href="/l/Used/Open~Box" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Open Box">Open Box</a></li><li data-icon="R"><a href="/refurbished/l/" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Refurbished">Refurbished</a></li><li data-icon="4"><a href="/l/Used/Clearance" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Used Clearance">Used Clearance</a></li><li data-icon="^"><a href="/rebates/l/" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Rebate Center">Rebate Center</a></li><li data-icon="%"><a href="/overstock/l/" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,NewHeader|Overstock">Overstock</a></li></ul></div></div><div class="head-account-cart head-componant flRight"><div class="head-account flLeft nav-drop-container toggle-hover"><a class="header-toggle-button toggle-icon head-account-toggle button-white" href="https://www.adorama.com/Als.Mvc/nspc/MyAccount">My Account</a><div class="toggled-hover nav-menu nav-drop"><ul><li><a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount" class="show-if-logged-in trackEvent" data-trackdata="Global Navigation,Navigation Level 3,My Account">My Account</a></li><li><a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount" class="show-if-logged-out trackEvent" data-trackdata="Global Navigation,Navigation Level 3,My Account">Sign in</a></li><li><a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount#wishlist" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,Wishlist">Wishlist</a></li><li><a href="/trackOrder" class="trackEvent show-if-logged-out" data-trackdata="Global Navigation,Navigation Level 3,Order Status">Order Status</a><a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount#dashboard" class="trackEvent show-if-logged-in" data-trackdata="Global Navigation,Navigation Level 3,Order Status">Order Status</a></li><li><a href="/help/faq" class="trackEvent" data-trackdata="Global Navigation,Navigation Level 3,Help">Help</a></li><li><a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount#signout" class="nav-logged-in trackEvent" data-trackdata="Global Navigation,Navigation Level 3,Sign Out">Sign Out</a></li></ul></div></div><div class="head-cart flLeft"><a class="header-toggle-button head-cart-link button-white" href="/als.mvc/cartview">Cart</a></div></div></div></div></header><!-- NEW HEADER2015 end -->
+<style>
+@media screen and (min-width: 1200px){
+.style-is-list .item-details, .style-is-list .item-info-secondary {
+    width: calc(70% - 230px)!important;
+}
+}
+@media screen and (max-width:1020px) and (min-width:801px) {
+.listing-container .item-list:not(.swiper-container) .button.add-to-cart, .my-account .button.add-to-cart{min-width: 18vw;}
+}
+</style>
+
+
+
+    
+    <script>
+        var level0 = document.getElementsByClassName("level0");
+        if (level0 && level0[0]){
+            level0[0].removeAttribute("xmlns:xlink"); 
+        }
+    </script>
+            <script type="text/scriptString" class="scriptString">
+                adrma.actions.add({
+	                dismissLevel0: function dismissLevel0(e, jThis) {
+			                adrma.cookie("hideLevel0", 1, {
+			                    path: "/",
+                                expires: 0.5
+			                }); 		
+		                }
+	            });
+            </script>
+        
+    <div class="alert-placeholder">
+        
+    </div>
+    
+ <section class="pageContent cf">
+
+     <div id="topPlaceholder">
+            
+          <nav class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+            
+                    <div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    
+                        <a itemprop="url" class="trackEvent" href="https://www.adorama.com" 
+                            data-trackdata="listing page, breadcrumbs"
+                        >
+                            <span itemprop="name">Adorama</span>
+	                    </a>
+                    
+                </div>
+            
+                    <div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    
+                        <a itemprop="url" class="trackEvent" href="/c/Cameras" 
+                            data-trackdata="listing page, breadcrumbs"
+                        >
+                            <span itemprop="name">Cameras & Digital Cameras</span>
+	                    </a>
+                    
+                </div>
+            
+                    <div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    
+                        <a itemprop="url" class="trackEvent" href="/l/Cameras/Godin~Digital-Point-and-Shoot-Cameras" 
+                            data-trackdata="listing page, breadcrumbs"
+                        >
+                            <span itemprop="name"> Godin Digital Point & Shoot Cameras</span>
+	                    </a>
+                    
+                </div>
+            
+                    <div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    
+                            <span itemprop="name">Nikon Coolpix AW120 Digital Camera, Blue...</span>
+                     
+                </div>
+            
+        </nav>
+
+    <header class="list-title cf">
+        
+            <h1> </h1>
+            
+         <a data-href="/sup/views/searchFeedback.html" class="popup search-feedback" data-popup-class="popup600 popup-search-feedback" title="How Can We Assist You?">Didn't find what you're looking for?</a>
+     </header>
+    
+    
+
+<nav class="search-type-segments segments-ui clear cf">
+
+	
+            <a href="http://www.adorama.com/Als.Mvc/nspc/revisedsearch?op=recommended&searchinfo=inkaw120blb&realPath=/RecommendFor/inkaw120blb.html"
+                class="active"
+                style="pointer-events: none; cursor: default"
+                data-ajax-load
+                >All</a>
+    
+            <a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Filter-By_Kits-only"
+                class=""
+                style=""
+                data-ajax-load
+                >Kits</a>
+        
+
+</nav>
+
+     </div>
+
+     <div id="gridToolbarPlaceholder">
+          
+
+<nav class="index-toolbar">
+      
+    
+        <span class="index-count">
+            <i>Showing</i>
+            <span class="index-count-showing">1-3</span> 
+            <em>of</em> 
+            <b><span class="index-count-total">3</span> results</b>
+        </span>
+
+        
+            <a data-action="toggleRefine" class="refine-menu-tab button small radius action" href="#">Refine</a>
+        
+                <div data-styleswitch="listPageLayoutManager" class="select-list-style">
+                    <a rel="nofollow" title="list view" data-style="list" data-action="changeListStyle" class="list-style mystyle-list action trackEvent" href="" 
+                        data-trackdata="listing page, view type, list view"></a>
+                    <a rel="nofollow" title="grid view" data-style="grid" data-action="changeListStyle" class="list-style mystyle-grid action trackEvent" href="" 
+                        data-trackdata="listing page, view type, grid view"></a>
+                   
+                    
+                </div>
+            
+            <div class="options-container opt-sort-by sort-right">
+                <span class="sort-label">&nbsp;</span>
+                <div data-onselect="followLink" data-action="selectUI" class="options-select action select-ui" id="select-ui-sortby">
+                    <a rel="nofollow" class="button radius-lg select select-ui-val" href="">
+                        <span class="select-ui-val">
+                            <span class="select-data">
+                                Sort by: <b>Popular Results</b>
+	                        </span>
+	                    </span>
+	                </a>
+	                
+		                <section class="select-ui-options">
+		                    <ul>
+		                        
+		                           <li class="trackEvent cKeys "
+		                               data-value="Popular Results" data-trackdata="listing page, sort by, Popular Results"
+		                               data-keys="Sort=Relevance&DescSort=de">
+		                               <a class="select-data trackEvent" rel="nofollow" href="https://www.adorama.com/RecommendFor/inkaw120blb.html?sf=Relevance&st=de"
+		                                   data-ajax-load data-ajax-type="mainOnly">
+		                                   Popular Results
+		                               </a>
+		                           </li>
+		                        
+		                           <li class="trackEvent cKeys "
+		                               data-value="Price: Low to High" data-trackdata="listing page, sort by, Price: Low to High"
+		                               data-keys="Sort=Price&DescSort=">
+		                               <a class="select-data trackEvent" rel="nofollow" href="https://www.adorama.com/RecommendFor/inkaw120blb.html?sf=Price"
+		                                   data-ajax-load data-ajax-type="mainOnly">
+		                                   Price: Low to High
+		                               </a>
+		                           </li>
+		                        
+		                           <li class="trackEvent cKeys "
+		                               data-value="Price: High to Low" data-trackdata="listing page, sort by, Price: High to Low"
+		                               data-keys="Sort=Price&DescSort=de">
+		                               <a class="select-data trackEvent" rel="nofollow" href="https://www.adorama.com/RecommendFor/inkaw120blb.html?sf=Price&st=de"
+		                                   data-ajax-load data-ajax-type="mainOnly">
+		                                   Price: High to Low
+		                               </a>
+		                           </li>
+		                        
+		                           <li class="trackEvent cKeys "
+		                               data-value="Title (A-Z)" data-trackdata="listing page, sort by, Title (A-Z)"
+		                               data-keys="Sort=Title&DescSort=">
+		                               <a class="select-data trackEvent" rel="nofollow" href="https://www.adorama.com/RecommendFor/inkaw120blb.html?sf=Title"
+		                                   data-ajax-load data-ajax-type="mainOnly">
+		                                   Title (A-Z)
+		                               </a>
+		                           </li>
+		                        
+		                           <li class="trackEvent cKeys "
+		                               data-value="Title (Z-A)" data-trackdata="listing page, sort by, Title (Z-A)"
+		                               data-keys="Sort=Title&DescSort=de">
+		                               <a class="select-data trackEvent" rel="nofollow" href="https://www.adorama.com/RecommendFor/inkaw120blb.html?sf=Title&st=de"
+		                                   data-ajax-load data-ajax-type="mainOnly">
+		                                   Title (Z-A)
+		                               </a>
+		                           </li>
+		                        
+		                           <li class="trackEvent cKeys "
+		                               data-value="Most Reviewed" data-trackdata="listing page, sort by, Most Reviewed"
+		                               data-keys="Sort=review&DescSort=de">
+		                               <a class="select-data trackEvent" rel="nofollow" href="https://www.adorama.com/RecommendFor/inkaw120blb.html?sf=review&st=de"
+		                                   data-ajax-load data-ajax-type="mainOnly">
+		                                   Most Reviewed
+		                               </a>
+		                           </li>
+		                        
+		                           <li class="trackEvent cKeys "
+		                               data-value="Highest Rated" data-trackdata="listing page, sort by, Highest Rated"
+		                               data-keys="Sort=rating&DescSort=de">
+		                               <a class="select-data trackEvent" rel="nofollow" href="https://www.adorama.com/RecommendFor/inkaw120blb.html?sf=rating&st=de"
+		                                   data-ajax-load data-ajax-type="mainOnly">
+		                                   Highest Rated
+		                               </a>
+		                           </li>
+		                        
+		                    </ul>
+		                </section>
+	                
+	            </div>
+	        </div>
+        
+    <!--/index-sorting-->
+
+
+        
+    
+</nav>
+     </div>
+
+    <div class="listing-container layout-80-20 layout-reverse clear">
+       <div class="col1">
+            
+            <div id="centerInfoPlaceholder">
+                
+
+<!-- About category-->
+            
+
+            <!-- SearchMsg banner -->
+            
+
+            <div class="promo-placeholder">
+                
+            </div>
+
+            
+
+<div class="item-list clear cf item-discontinued style-is-list">
+    <div class="item" data-sku="INKAW120BLB">
+
+        
+            <div class="item-img">
+                <a href="https://www.adorama.com/inkaw120blb.html?discontinued=t">
+                    <img class="productImage" alt="INKAW120BLB" src="//www.adorama.com/images/300x300/inkaw120blb.jpg">
+                </a>
+            </div>
+        
+        <div class="item-details">
+            
+                <h1>
+                    <a href="https://www.adorama.com/inkaw120blb.html?discontinued=t">Nikon Coolpix AW120 Digital Camera, Blue With Upgr</a>
+                </h1>
+                <span class="item-ids">
+                    <i class="product-sku" content="sku:INKAW120BLB">
+                        SKU: <span>INKAW120BLB</span>
+                    </i>
+                    
+                        <i class="product-sku" content="mfr:26466 B" style="display: inline-block;">
+                            MFR: <span>26466 B</span>
+                        </i>
+                    
+                </span>
+            
+            <h1>We are sorry, this item is no longer available.</h1>
+            
+                <p>For your convenience, we have redirected you to a list of similar items so you may make an alternate selection.</p>
+            
+        </div>
+    </div>
+</div>
+
+
+            </div>
+
+            <div id="productGridPlaceholder">
+            
+
+<div class="item-index cf" data-lazy-load>
+
+    
+
+<!-- Selected Options -->
+
+<div class="selected-options">
+
+	<ul>
+		<h6>Refined By:</h6>
+
+        
+        <li>
+            <strong>
+            Blue
+            
+            </strong>
+            <a class="filter-selected-icon action-remove trackEvent"
+                data-track-data="listing page,filters,deselect"
+                href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items" 
+                data-icon="X" 
+                data-filterId="3250193" 
+                data-selected-filter  
+                 data-ajax-load  
+                data-filter-name="Blue"
+				data-ajax-type="refinementsOnly"></a>
+        </li>
+        
+        <li>
+            <strong>
+            Camera Bundle
+            
+            </strong>
+            <a class="filter-selected-icon action-remove trackEvent"
+                data-track-data="listing page,filters,deselect"
+                href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items" 
+                data-icon="X" 
+                data-filterId="3450031" 
+                data-selected-filter  
+                 data-ajax-load  
+                data-filter-name="Camera Bundle"
+				data-ajax-type="refinementsOnly"></a>
+        </li>
+        
+        <li>
+            <strong>
+            4x
+            
+            </strong>
+            <a class="filter-selected-icon action-remove trackEvent"
+                data-track-data="listing page,filters,deselect"
+                href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Item-Condition_New-Items" 
+                data-icon="X" 
+                data-filterId="3920021" 
+                data-selected-filter  
+                 data-ajax-load  
+                data-filter-name="4x"
+				data-ajax-type="refinementsOnly"></a>
+        </li>
+        
+        <li>
+            <strong>
+            SD
+            
+            </strong>
+            <a class="filter-selected-icon action-remove trackEvent"
+                data-track-data="listing page,filters,deselect"
+                href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items" 
+                data-icon="X" 
+                data-filterId="6400040" 
+                data-selected-filter  
+                 data-ajax-load  
+                data-filter-name="SD"
+				data-ajax-type="refinementsOnly"></a>
+        </li>
+        
+        <li>
+            <strong>
+            16 MP
+            
+            </strong>
+            <a class="filter-selected-icon action-remove trackEvent"
+                data-track-data="listing page,filters,deselect"
+                href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items" 
+                data-icon="X" 
+                data-filterId="8340024" 
+                data-selected-filter  
+                 data-ajax-load  
+                data-filter-name="16 MP"
+				data-ajax-type="refinementsOnly"></a>
+        </li>
+        
+        <li>
+            <strong>
+            Waterproof
+            
+            </strong>
+            <a class="filter-selected-icon action-remove trackEvent"
+                data-track-data="listing page,filters,deselect"
+                href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Digital-Zoom_4x|Item-Condition_New-Items" 
+                data-icon="X" 
+                data-filterId="8900097" 
+                data-selected-filter  
+                 data-ajax-load  
+                data-filter-name="Waterproof"
+				data-ajax-type="refinementsOnly"></a>
+        </li>
+        
+		<li><a class="trackEvent" 
+               data-track-data="listing page,filters,clear all"
+               href="/l/Cameras/Digital-Point-and-Shoot-Cameras"
+			    data-ajax-load 
+			   data-ajax-type="refinementsOnly">Clear All</a></li>
+	</ul>	
+
+</div>
+
+<!-- Selected Options END -->    
+    <div class="item-list clear style-is-list "  >
+        
+
+
+<div data-sku="IPCDMCTS30BN" class="item" itemscope="" itemtype="http://schema.org/Product">
+    <!-- Badges section -->
+
+    
+            <a href="https://www.adorama.com/ipcdmcts30bn.html" class="tappable-item"></a>
+         
+        <div class="item-tag-price">
+         
+        </div>
+    
+    <div class="item-img">
+        <a href="https://www.adorama.com/ipcdmcts30bn.html" class="trackEvent"
+                    data-trackdata="listing page, image, ipcdmcts30bn">
+
+                                                       
+            <img alt="ipcdmcts30bn" src="/images/product/ipcdmcts30bn.jpg" class="productImage" />                                                        
+        </a>
+        
+    </div>
+
+    <div class="item-details">
+        <h2 itemprop="name">
+            <a href="https://www.adorama.com/ipcdmcts30bn.html" class="trackEvent"
+                    data-trackdata="listing page, title, ipcdmcts30bn">
+                Panasonic Lumix DMC-TS30 Digital Camera with Free Accessories, Blue
+                
+            </a>
+        </h2>
+
+                    
+                    <div class="reviews-wrap">
+                        
+
+<a itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating"  class=" item-reviews hoverInfo " 
+href="/r/ipcdmcts30bn-reviews"
+ >
+
+<div class="review-stars review-stars-4_5">
+
+<em itemprop="ratingValue">4.5</em>
+
+    </div>
+    <span class="review-count">
+           <span itemprop="ratingCount">38</span> <em>reviews</em>
+    </span>
+        
+    <div class="hoverTips tipRight" id="pr-snapshot">
+        <strong>Ratings Distribution</strong>
+        <ul>
+            
+            <li class="pr-histogram-5 Stars">
+                <span class="pr-histogram-label">5 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 65.7894736842105%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(25)</span>
+            </li>
+            
+            <li class="pr-histogram-4 Stars">
+                <span class="pr-histogram-label">4 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 21.0526315789474%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(8)</span>
+            </li>
+            
+            <li class="pr-histogram-3 Stars">
+                <span class="pr-histogram-label">3 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 7.89473684210526%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(3)</span>
+            </li>
+            
+            <li class="pr-histogram-2 Stars">
+                <span class="pr-histogram-label">2 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 5.26315789473684%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(2)</span>
+            </li>
+            
+            <li class="pr-histogram-1 Stars">
+                <span class="pr-histogram-label">1 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 0%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(0)</span>
+            </li>
+            
+        </ul>
+    </div>
+    </a>
+                    </div>
+            
+
+        <p class="item-ids">
+                 <i class="product-sku" content="IPCDMCTS30BN"  >
+                    SKU: <span itemprop="sku">IPCDMCTS30BN</span>
+                </i>
+                
+                    <i class="product-sku" content="DMC-TS30A NK" style="display: inline-block;">
+                        MFR: <span itemprop="mpn">DMC-TS30A NK</span>
+                    </i>
+                
+        </p>
+
+                 
+        
+    </div>
+
+    <div class="item-actions">
+        
+      <div class="prices" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+    
+
+<p class="price-breakdown">
+    <s class="price-reg-has-sibs">
+        <em>
+            Regular Price:
+            
+        </em>
+    $177.99
+    </s>
+    
+        <span class="price-credit">
+            <em>
+                Instant Rebate:
+                
+            </em>
+            -$40.00
+        </span>
+    
+</p>
+
+        <em class="price-label  price-label-highlight ">
+            (22% Off) 
+            </br>
+        </em> 
+    
+    <meta content="USD" itemprop="priceCurrency">
+    <strong class="your-price">$137.99</strong>
+        
+<input id="FinalPrice" type="hidden" value="137.99" itemprop="price" content="137.99"/>
+
+        <link content="http://schema.org/InStock" itemprop="availability">
+    
+</div>
+
+
+<form>
+    
+
+    <input class="itemData hoverInfo" type="hidden" required="" pattern="[1-9][0-9]{0,3}" maxlength="4" size="3" value="1" name="IPCDMCTS30BN_qty">
+    
+    <button type="button"
+        data-action-timeout="1000"
+        
+        data-action="addToCart"
+        data-trackdata="listing page, add to cart, ipcdmcts30bn"
+        class="button trackEvent add-to-cart action highlight-dark"
+        data-popup-class=""
+        data-orig-val="Add to Cart"
+        
+        rel=""
+        href=""
+        >
+        Add to Cart
+        
+    </button>
+    
+</form>
+
+
+<p class="save-actions">
+    
+        <a href="/sup/static/wishListConfirm.html" class="popup wishlist-add trackEvent" data-popup-class="popupAlert popup-add-to-wishlist" 
+            data-callback="initAddToWishlist" data-callback-arguments="ipcdmcts30bn" data-callback-context="adrma" title="Add to Wish List"
+            data-trackdata="listing page, add to wishlist, ipcdmcts30bn"
+        >
+            + wishlist
+        </a>
+    
+</p>
+
+
+<section class="bundled cf">
+    <a href="https://www.adorama.com/ipcdmcts30bn.html" class="bundled-title" data-icon=")">Kit Includes</a>
+    <ul>
+        
+        <li>
+            <a class="popup" 
+                href="https://www.adorama.com/Als.Mvc/nspc/Product/GetQuickViewPopupContent/IPCDMCTS30B/True/True" 
+                rel="nofollow" 
+                data-popup-class="quickView"
+                title="Panasonic Lumix DMC-TS30 Digital Camera, Blue">
+                <img src="//www.adorama.com/images/small/ipcdmcts30b.jpg">
+            </a>
+        </li>
+        
+        <li>
+            <a class="popup" 
+                href="https://www.adorama.com/Als.Mvc/nspc/Product/GetQuickViewPopupContent/LPT04/True/True" 
+                rel="nofollow" 
+                data-popup-class="quickView"
+                title="Lowepro Trax TCP-04 Pouch for Compact Cameras, Black">
+                <img src="//www.adorama.com/images/small/lpt04.jpg">
+            </a>
+        </li>
+        
+        <li>
+            <a class="popup" 
+                href="https://www.adorama.com/Als.Mvc/nspc/Product/GetQuickViewPopupContent/KGSDC10G216G/True/True" 
+                rel="nofollow" 
+                data-popup-class="quickView"
+                title="Kingston Technology 16GB Class 10 UHS-I microSDHC Card with SD Adapter">
+                <img src="//www.adorama.com/images/small/kgsdc10g216g.jpg">
+            </a>
+        </li>
+        		
+        <li>
+            <a href="https://www.adorama.com/ipcdmcts30bn.html">2 More</a>
+        </li>
+        
+    </ul>
+</section>
+    </div>
+
+    <div class="item-info-secondary">
+        
+<div class="buy-section highlights">
+    <ul>
+        
+            
+            <li><strong>Model</strong>: Model# Panasonic TS30</li>
+            
+            <li><strong>Configuration</strong>: Includes Camera Bundle</li>
+            
+            <li><strong>Resolution</strong>: 16 MP</li>
+            
+            <li><strong>Media Type</strong>: SD Card</li>
+            
+            <li><strong>Special Features</strong>: Waterproof</li>
+            
+            <li><strong>Optical Zoom</strong>: 4x Optical Zoom</li>
+            
+            <li><strong>Digital Zoom</strong>: 4x Digital Zoom</li>
+            
+    </ul>
+</div>
+
+
+        <p class="availability">
+            
+    <span class="stock-in stock ">
+    In Stock
+    
+    </span>
+
+
+            </p>
+
+                   
+
+    </div>
+</div>
+
+
+
+<div data-sku="IPCDMCTS30BB" class="item" itemscope="" itemtype="http://schema.org/Product">
+    <!-- Badges section -->
+
+    
+            <a href="https://www.adorama.com/ipcdmcts30bb.html" class="tappable-item"></a>
+         
+        <div class="item-tag-price">
+         
+        </div>
+    
+    <div class="item-img">
+        <a href="https://www.adorama.com/ipcdmcts30bb.html" class="trackEvent"
+                    data-trackdata="listing page, image, ipcdmcts30bb">
+
+                                                       
+            <img alt="ipcdmcts30bb" src="/images/product/ipcdmcts30bb.jpg" class="productImage" />                                                        
+        </a>
+        
+    </div>
+
+    <div class="item-details">
+        <h2 itemprop="name">
+            <a href="https://www.adorama.com/ipcdmcts30bb.html" class="trackEvent"
+                    data-trackdata="listing page, title, ipcdmcts30bb">
+                Panasonic Lumix DMC-TS30 Digital Camera with Premium Kit, Blue
+                
+            </a>
+        </h2>
+
+                    
+                    <div class="reviews-wrap">
+                        
+
+<a itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating"  class=" item-reviews hoverInfo " 
+href="/r/ipcdmcts30bb-reviews"
+ >
+
+<div class="review-stars review-stars-4_5">
+
+<em itemprop="ratingValue">4.4</em>
+
+    </div>
+    <span class="review-count">
+           <span itemprop="ratingCount">30</span> <em>reviews</em>
+    </span>
+        
+    <div class="hoverTips tipRight" id="pr-snapshot">
+        <strong>Ratings Distribution</strong>
+        <ul>
+            
+            <li class="pr-histogram-5 Stars">
+                <span class="pr-histogram-label">5 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 63.3333333333333%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(19)</span>
+            </li>
+            
+            <li class="pr-histogram-4 Stars">
+                <span class="pr-histogram-label">4 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 20%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(6)</span>
+            </li>
+            
+            <li class="pr-histogram-3 Stars">
+                <span class="pr-histogram-label">3 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 10%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(3)</span>
+            </li>
+            
+            <li class="pr-histogram-2 Stars">
+                <span class="pr-histogram-label">2 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 6.66666666666667%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(2)</span>
+            </li>
+            
+            <li class="pr-histogram-1 Stars">
+                <span class="pr-histogram-label">1 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 0%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(0)</span>
+            </li>
+            
+        </ul>
+    </div>
+    </a>
+                    </div>
+            
+
+        <p class="item-ids">
+                 <i class="product-sku" content="IPCDMCTS30BB"  >
+                    SKU: <span itemprop="sku">IPCDMCTS30BB</span>
+                </i>
+                
+                    <i class="product-sku" content="DMC-TS30A B" style="display: inline-block;">
+                        MFR: <span itemprop="mpn">DMC-TS30A B</span>
+                    </i>
+                
+        </p>
+
+                 
+        
+    </div>
+
+    <div class="item-actions">
+        
+      <div class="prices" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+    
+
+<p class="price-breakdown">
+    <s class="price-reg-has-sibs">
+        <em>
+            Regular Price:
+            
+        </em>
+    $189.34
+    </s>
+    
+        <span class="price-credit">
+            <em>
+                Instant Rebate:
+                
+            </em>
+            -$40.00
+        </span>
+    
+</p>
+
+        <em class="price-label  price-label-highlight ">
+            (21% Off) 
+            </br>
+        </em> 
+    
+    <meta content="USD" itemprop="priceCurrency">
+    <strong class="your-price">$149.34</strong>
+    
+    <a class="popup product-shipping free-2-days-delivery-popup-link"
+        data-callback-context="adrma"
+        data-callback-arguments="IPCDMCTS30BB"
+        data-popup-class="popup800"
+        rel="nofollow" href="/API/GetContent?ContentName=VIP360ShippingNew&output=desktop"
+        title="Get 2 Day Delivery with VIP360">
+        <p class="vip-shipping"><span>VIP<b>360</b></span></p>
+    </a>
+        
+<input id="FinalPrice" type="hidden" value="149.34" itemprop="price" content="149.34"/>
+
+        <link content="http://schema.org/InStock" itemprop="availability">
+    
+</div>
+
+
+<form>
+    
+
+    <input class="itemData hoverInfo" type="hidden" required="" pattern="[1-9][0-9]{0,3}" maxlength="4" size="3" value="1" name="IPCDMCTS30BB_qty">
+    
+    <button type="button"
+        data-action-timeout="1000"
+        
+        data-action="addToCart"
+        data-trackdata="listing page, add to cart, ipcdmcts30bb"
+        class="button trackEvent add-to-cart action highlight-dark"
+        data-popup-class=""
+        data-orig-val="Add to Cart"
+        
+        rel=""
+        href=""
+        >
+        Add to Cart
+        
+    </button>
+    
+</form>
+
+
+<p class="save-actions">
+    
+        <a href="/sup/static/wishListConfirm.html" class="popup wishlist-add trackEvent" data-popup-class="popupAlert popup-add-to-wishlist" 
+            data-callback="initAddToWishlist" data-callback-arguments="ipcdmcts30bb" data-callback-context="adrma" title="Add to Wish List"
+            data-trackdata="listing page, add to wishlist, ipcdmcts30bb"
+        >
+            + wishlist
+        </a>
+    
+</p>
+
+
+<section class="bundled cf">
+    <a href="https://www.adorama.com/ipcdmcts30bb.html" class="bundled-title" data-icon=")">Kit Includes</a>
+    <ul>
+        
+        <li>
+            <a class="popup" 
+                href="https://www.adorama.com/Als.Mvc/nspc/Product/GetQuickViewPopupContent/IPCDMCTS30B/True/True" 
+                rel="nofollow" 
+                data-popup-class="quickView"
+                title="Panasonic Lumix DMC-TS30 Digital Camera, Blue">
+                <img src="//www.adorama.com/images/small/ipcdmcts30b.jpg">
+            </a>
+        </li>
+        
+        <li>
+            <a class="popup" 
+                href="https://www.adorama.com/Als.Mvc/nspc/Product/GetQuickViewPopupContent/LPT04/True/True" 
+                rel="nofollow" 
+                data-popup-class="quickView"
+                title="Lowepro Trax TCP-04 Pouch for Compact Cameras, Black">
+                <img src="//www.adorama.com/images/small/lpt04.jpg">
+            </a>
+        </li>
+        
+        <li>
+            <a class="popup" 
+                href="https://www.adorama.com/Als.Mvc/nspc/Product/GetQuickViewPopupContent/IDSDUIC8016/True/True" 
+                rel="nofollow" 
+                data-popup-class="quickView"
+                title="SanDisk 16GB Class 10 Ultra SDHC UHS-I Memory Card">
+                <img src="//www.adorama.com/images/small/idsduic8016.jpg">
+            </a>
+        </li>
+        		
+        <li>
+            <a href="https://www.adorama.com/ipcdmcts30bb.html">4 More</a>
+        </li>
+        
+    </ul>
+</section>
+    </div>
+
+    <div class="item-info-secondary">
+        
+<div class="buy-section highlights">
+    <ul>
+        
+            
+            <li><strong>Model</strong>: Model# Panasonic TS30</li>
+            
+            <li><strong>Configuration</strong>: Includes Camera Bundle</li>
+            
+            <li><strong>Resolution</strong>: 16 MP</li>
+            
+            <li><strong>Media Type</strong>: SD Card</li>
+            
+            <li><strong>Special Features</strong>: Waterproof</li>
+            
+            <li><strong>Optical Zoom</strong>: 4x Optical Zoom</li>
+            
+            <li><strong>Digital Zoom</strong>: 4x Digital Zoom</li>
+            
+    </ul>
+</div>
+
+
+        <p class="availability">
+            
+    <span class="stock-in stock ">
+    In Stock
+    
+    </span>
+
+
+            </p>
+
+                   
+
+    </div>
+</div>
+
+
+
+<div data-sku="IPCDMCTS30BA" class="item" itemscope="" itemtype="http://schema.org/Product">
+    <!-- Badges section -->
+
+    
+            <a href="https://www.adorama.com/ipcdmcts30ba.html" class="tappable-item"></a>
+         
+        <div class="item-tag-price">
+         
+        </div>
+    
+    <div class="item-img">
+        <a href="https://www.adorama.com/ipcdmcts30ba.html" class="trackEvent"
+                    data-trackdata="listing page, image, ipcdmcts30ba">
+
+                                                       
+            <img alt="ipcdmcts30ba" src="/images/product/ipcdmcts30ba.jpg" class="productImage" />                                                        
+        </a>
+        
+    </div>
+
+    <div class="item-details">
+        <h2 itemprop="name">
+            <a href="https://www.adorama.com/ipcdmcts30ba.html" class="trackEvent"
+                    data-trackdata="listing page, title, ipcdmcts30ba">
+                Panasonic Lumix DMC-TS30 Digital Camera, Blue with Basic Accessory Bundle
+                
+            </a>
+        </h2>
+
+                    
+                    <div class="reviews-wrap">
+                        
+
+<a itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating"  class=" item-reviews hoverInfo " 
+href="/r/ipcdmcts30ba-reviews"
+ >
+
+<div class="review-stars review-stars-4_5">
+
+<em itemprop="ratingValue">4.4</em>
+
+    </div>
+    <span class="review-count">
+           <span itemprop="ratingCount">30</span> <em>reviews</em>
+    </span>
+        
+    <div class="hoverTips tipRight" id="pr-snapshot">
+        <strong>Ratings Distribution</strong>
+        <ul>
+            
+            <li class="pr-histogram-5 Stars">
+                <span class="pr-histogram-label">5 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 63.3333333333333%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(19)</span>
+            </li>
+            
+            <li class="pr-histogram-4 Stars">
+                <span class="pr-histogram-label">4 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 20%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(6)</span>
+            </li>
+            
+            <li class="pr-histogram-3 Stars">
+                <span class="pr-histogram-label">3 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 10%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(3)</span>
+            </li>
+            
+            <li class="pr-histogram-2 Stars">
+                <span class="pr-histogram-label">2 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 6.66666666666667%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(2)</span>
+            </li>
+            
+            <li class="pr-histogram-1 Stars">
+                <span class="pr-histogram-label">1 Stars</span>
+                <div class="pr-ratings-histogram-bar">
+                    <div style="width: 0%" class="pr-ratings-histogram-barValue">&nbsp;</div>
+                </div>
+                <span class="pr-histogram-count">(0)</span>
+            </li>
+            
+        </ul>
+    </div>
+    </a>
+                    </div>
+            
+
+        <p class="item-ids">
+                 <i class="product-sku" content="IPCDMCTS30BA"  >
+                    SKU: <span itemprop="sku">IPCDMCTS30BA</span>
+                </i>
+                
+                    <i class="product-sku" content="DMC-TS30A A" style="display: inline-block;">
+                        MFR: <span itemprop="mpn">DMC-TS30A A</span>
+                    </i>
+                
+        </p>
+
+                 
+        
+    </div>
+
+    <div class="item-actions">
+        
+      <div class="prices" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+    
+
+<p class="price-breakdown">
+    <s class="price-reg-has-sibs">
+        <em>
+            Regular Price:
+            
+        </em>
+    $177.99
+    </s>
+    
+        <span class="price-credit">
+            <em>
+                Instant Rebate:
+                
+            </em>
+            -$40.00
+        </span>
+    
+</p>
+
+        <em class="price-label  price-label-highlight ">
+            (22% Off) 
+            </br>
+        </em> 
+    
+    <meta content="USD" itemprop="priceCurrency">
+    <strong class="your-price">$137.99</strong>
+    
+    <a class="popup product-shipping free-2-days-delivery-popup-link"
+        data-callback-context="adrma"
+        data-callback-arguments="IPCDMCTS30BA"
+        data-popup-class="popup800"
+        rel="nofollow" href="/API/GetContent?ContentName=VIP360ShippingNew&output=desktop"
+        title="Get 2 Day Delivery with VIP360">
+        <p class="vip-shipping"><span>VIP<b>360</b></span></p>
+    </a>
+        
+<input id="FinalPrice" type="hidden" value="137.99" itemprop="price" content="137.99"/>
+
+        <link content="http://schema.org/InStock" itemprop="availability">
+    
+</div>
+
+
+<form>
+    
+
+    <input class="itemData hoverInfo" type="hidden" required="" pattern="[1-9][0-9]{0,3}" maxlength="4" size="3" value="1" name="IPCDMCTS30BA_qty">
+    
+    <button type="button"
+        data-action-timeout="1000"
+        
+        data-action="addToCart"
+        data-trackdata="listing page, add to cart, ipcdmcts30ba"
+        class="button trackEvent add-to-cart action highlight-dark"
+        data-popup-class=""
+        data-orig-val="Add to Cart"
+        
+        rel=""
+        href=""
+        >
+        Add to Cart
+        
+    </button>
+    
+</form>
+
+
+<p class="save-actions">
+    
+        <a href="/sup/static/wishListConfirm.html" class="popup wishlist-add trackEvent" data-popup-class="popupAlert popup-add-to-wishlist" 
+            data-callback="initAddToWishlist" data-callback-arguments="ipcdmcts30ba" data-callback-context="adrma" title="Add to Wish List"
+            data-trackdata="listing page, add to wishlist, ipcdmcts30ba"
+        >
+            + wishlist
+        </a>
+    
+</p>
+
+
+<section class="bundled cf">
+    <a href="https://www.adorama.com/ipcdmcts30ba.html" class="bundled-title" data-icon=")">Kit Includes</a>
+    <ul>
+        
+        <li>
+            <a class="popup" 
+                href="https://www.adorama.com/Als.Mvc/nspc/Product/GetQuickViewPopupContent/IPCDMCTS30B/True/True" 
+                rel="nofollow" 
+                data-popup-class="quickView"
+                title="Panasonic Lumix DMC-TS30 Digital Camera, Blue">
+                <img src="//www.adorama.com/images/small/ipcdmcts30b.jpg">
+            </a>
+        </li>
+        
+        <li>
+            <a class="popup" 
+                href="https://www.adorama.com/Als.Mvc/nspc/Product/GetQuickViewPopupContent/LPT04/True/True" 
+                rel="nofollow" 
+                data-popup-class="quickView"
+                title="Lowepro Trax TCP-04 Pouch for Compact Cameras, Black">
+                <img src="//www.adorama.com/images/small/lpt04.jpg">
+            </a>
+        </li>
+        
+        <li>
+            <a class="popup" 
+                href="https://www.adorama.com/Als.Mvc/nspc/Product/GetQuickViewPopupContent/PROXCPK1/True/True" 
+                rel="nofollow" 
+                data-popup-class="quickView"
+                title="ProOPTIC Complete Optics Care and Cleaning Kit">
+                <img src="//www.adorama.com/images/small/proxcpk1.jpg">
+            </a>
+        </li>
+        		
+        <li>
+            <a href="https://www.adorama.com/ipcdmcts30ba.html">1 More</a>
+        </li>
+        
+    </ul>
+</section>
+    </div>
+
+    <div class="item-info-secondary">
+        
+<div class="buy-section highlights">
+    <ul>
+        
+            
+            <li><strong>Model</strong>: Model# Panasonic TS30</li>
+            
+            <li><strong>Configuration</strong>: Includes Camera Bundle</li>
+            
+            <li><strong>Resolution</strong>: 16 MP</li>
+            
+            <li><strong>Media Type</strong>: SD Card</li>
+            
+            <li><strong>Special Features</strong>: Waterproof</li>
+            
+            <li><strong>Optical Zoom</strong>: 4x Optical Zoom</li>
+            
+            <li><strong>Digital Zoom</strong>: 4x Digital Zoom</li>
+            
+    </ul>
+</div>
+
+
+        <p class="availability">
+            
+    <span class="stock-in stock ">
+    In Stock
+    
+    </span>
+
+
+            </p>
+
+                   
+
+    </div>
+</div>
+
+
+<div class="lazy-loading item hide">
+			<div class="loading-global"></div>
+			<a href="#" class="action" data-action="executeContentLoading">Load More Products</a> 
+		</div>
+        
+       <script>
+           try {
+               var settings = localStorage.getItem("settings"),
+                   dpr = window.devicePixelRatio ? window.devicePixelRatio : 1,
+                   screenWidth = window.screen.width * dpr;
+               if (settings) {
+                   settings = JSON.parse(settings);
+                   var layout = settings.listPageLayout;
+                   if (layout && layout !== "list") {
+                       if (screenWidth <= 801) {
+                           localStorage.removeItem("settings");
+                       } else {
+                           var itemList = document.querySelectorAll(".item-index .item-list")[0];
+                           itemList.classList.remove("style-is-list");
+                           itemList.classList.add("style-is-" + layout);
+                       }
+                   }
+               }
+           } catch (e) { }
+      </script>
+        
+    </div>
+    
+</div>
+
+            </div>
+
+            <div id="bottomPlaceholder">
+                 
+            </div>
+           
+        </div>
+        <div class="col2">
+
+             <div id="filtersPlaceholder">
+                
+    <aside class="widget highlight filter-select">
+        <h3 class="widget-header">Refine Your Results 
+            <a data-action="toggleRefine" class="action"></a>
+        </h3>
+    
+       <div class="rwd-filter-status">
+	        <strong><span>7</span> options selected</strong>
+	        <a class="action-remove" href="/l/Cameras/Digital-Point-and-Shoot-Cameras">clear all</a>
+        </div>
+    
+
+
+        <div class="widget-content">
+            
+            <section class="filter-select-grp filter-cats" data-filter-category-name="Category"> 
+            
+<nav class="filter-cat-parents"> 
+
+<a href="/l/?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items" data-icon="<" class="filter-cats-seeall" data-ajax-load>All Categories</a>
+
+    <a href="/l/Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items" data-icon="<" class="filter-cats-back" data-ajax-load>Cameras</a>
+    
+
+					<strong data-icon="v" class="filter-cats-selected">Digital Point & Shoot Cameras</strong>
+			
+            </nav>
+<div class="filter-options show">
+
+	
+</div>
+            </section>
+            
+                        <section class="filter-select-grp" data-filter-category-name="Color"> 
+                            <a class="filter-type action shown" data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Color
+                            </a>
+
+                            
+
+<div class="filter-options show">
+	
+		<ul class="filter-selected">
+			
+				<li>
+					<a class="filter-selected-icon action-remove trackEvent" data-track-data="listing page,filters,deselect" href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items" data-filterId="3250193" data-selected-filter data-filter-name="Blue" 
+						 data-ajax-load ></a>
+					<strong>Blue</strong>
+				</li>
+			
+		</ul>
+	
+		<ul class="filter-available" >
+			
+
+				<li data-count="2" data-sequence="1" data-filterId="3250091"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue_Black|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items"  class="trackEvent" data-trackdata="listing page, filters, Color" data-filterId="3250091" data-filter-name="Black"  data-ajax-load >
+						<em>Black</em>
+						
+						<span>(2)</span>
+						
+					</a>
+				</li>
+			
+
+				<li data-count="2" data-sequence="2" data-filterId="3251120"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue_Red|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items"  class="trackEvent" data-trackdata="listing page, filters, Color" data-filterId="3251120" data-filter-name="Red"  data-ajax-load >
+						<em>Red</em>
+						
+						<span>(2)</span>
+						
+					</a>
+				</li>
+			 
+		</ul> 
+	
+</div>
+
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Configuration"> 
+                            <a class="filter-type action shown" data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Configuration
+                            </a>
+
+                            
+
+<div class="filter-options show">
+	
+		<ul class="filter-selected">
+			
+				<li>
+					<a class="filter-selected-icon action-remove trackEvent" data-track-data="listing page,filters,deselect" href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items" data-filterId="3450031" data-selected-filter data-filter-name="Camera Bundle" 
+						 data-ajax-load ></a>
+					<strong>Camera Bundle</strong>
+				</li>
+			
+		</ul>
+	
+		<ul class="filter-available" >
+			
+
+				<li data-count="1" data-sequence="1" data-filterId="3450032"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle_Camera-Only|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items"  class="trackEvent" data-trackdata="listing page, filters, Configuration" data-filterId="3450032" data-filter-name="Camera Only"  data-ajax-load >
+						<em>Camera Only</em>
+						
+						<span>(1)</span>
+						
+					</a>
+				</li>
+			 
+		</ul> 
+	
+</div>
+
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Digital Zoom"> 
+                            <a class="filter-type action shown" data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Digital Zoom
+                            </a>
+
+                            
+
+<div class="filter-options show">
+	
+		<ul class="filter-selected">
+			
+				<li>
+					<a class="filter-selected-icon action-remove trackEvent" data-track-data="listing page,filters,deselect" href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Item-Condition_New-Items" data-filterId="3920021" data-selected-filter data-filter-name="4x" 
+						 data-ajax-load ></a>
+					<strong>4x</strong>
+				</li>
+			
+		</ul>
+	
+</div>
+
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Kit Style"> 
+                            <a class="filter-type action shown" data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Kit Style
+                            </a>
+
+                            
+
+<div class="filter-options show">
+	
+		<ul class="filter-available" >
+			
+
+				<li data-count="2" data-sequence="1" data-filterId="5660025"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Kit-Style_Free-Accessories"  class="trackEvent" data-trackdata="listing page, filters, Kit Style" data-filterId="5660025" data-filter-name="Free Accessories"  data-ajax-load >
+						<em>Free Accessories</em>
+						
+						<span>(2)</span>
+						
+					</a>
+				</li>
+			
+
+				<li data-count="1" data-sequence="2" data-filterId="5660036"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Kit-Style_Premium-Bundle"  class="trackEvent" data-trackdata="listing page, filters, Kit Style" data-filterId="5660036" data-filter-name="Premium Bundle"  data-ajax-load >
+						<em>Premium Bundle</em>
+						
+						<span>(1)</span>
+						
+					</a>
+				</li>
+			 
+		</ul> 
+	
+</div>
+
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Media Type"> 
+                            <a class="filter-type action shown" data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Media Type
+                            </a>
+
+                            
+
+<div class="filter-options show">
+	
+		<ul class="filter-selected">
+			
+				<li>
+					<a class="filter-selected-icon action-remove trackEvent" data-track-data="listing page,filters,deselect" href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items" data-filterId="6400040" data-selected-filter data-filter-name="SD" 
+						 data-ajax-load ></a>
+					<strong>SD</strong>
+				</li>
+			
+		</ul>
+	
+</div>
+
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Resolution"> 
+                            <a class="filter-type action shown" data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Resolution
+                            </a>
+
+                            
+
+<div class="filter-options show">
+	
+		<ul class="filter-selected">
+			
+				<li>
+					<a class="filter-selected-icon action-remove trackEvent" data-track-data="listing page,filters,deselect" href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items" data-filterId="8340024" data-selected-filter data-filter-name="16 MP" 
+						 data-ajax-load ></a>
+					<strong>16 MP</strong>
+				</li>
+			
+		</ul>
+	
+</div>
+
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Sensor Size"> 
+                            <a class="filter-type action " data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Sensor Size
+                            </a>
+
+                            
+
+<div class="filter-options ">
+	
+		<ul class="filter-available" >
+			
+
+				<li data-count="2" data-sequence="1" data-filterId="8610006"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Sensor-Size_1-2-dot-3-quotes"  class="trackEvent" data-trackdata="listing page, filters, Sensor Size" data-filterId="8610006" data-filter-name="1/2.3""  data-ajax-load >
+						<em>1/2.3"</em>
+						
+						<span>(2)</span>
+						
+					</a>
+				</li>
+			 
+		</ul> 
+	
+</div>
+
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Series"> 
+                            <a class="filter-type action " data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Series
+                            </a>
+
+                            
+
+<div class="filter-options ">
+	
+		<ul class="filter-available" >
+			
+
+				<li data-count="2" data-sequence="1" data-filterId="8630141"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Series_Lumix"  class="trackEvent" data-trackdata="listing page, filters, Series" data-filterId="8630141" data-filter-name="Lumix"  data-ajax-load >
+						<em>Lumix</em>
+						
+						<span>(2)</span>
+						
+					</a>
+				</li>
+			 
+		</ul> 
+	
+</div>
+
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Special Features"> 
+                            <a class="filter-type action shown" data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Special Features
+                            </a>
+
+                            
+
+<div class="filter-options show">
+	
+		<ul class="filter-selected">
+			
+				<li>
+					<a class="filter-selected-icon action-remove trackEvent" data-track-data="listing page,filters,deselect" href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Digital-Zoom_4x|Item-Condition_New-Items" data-filterId="8900097" data-selected-filter data-filter-name="Waterproof" 
+						 data-ajax-load ></a>
+					<strong>Waterproof</strong>
+				</li>
+			
+		</ul>
+	
+</div>
+
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Video Resolution"> 
+                            <a class="filter-type action " data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Video Resolution
+                            </a>
+
+                            
+
+<div class="filter-options ">
+	
+		<ul class="filter-available" >
+			
+
+				<li data-count="2" data-sequence="1" data-filterId="9700008"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Video-Resolution_HD-720"  class="trackEvent" data-trackdata="listing page, filters, Video Resolution" data-filterId="9700008" data-filter-name="HD 720"  data-ajax-load >
+						<em>HD 720</em>
+						
+						<span>(2)</span>
+						
+					</a>
+				</li>
+			 
+		</ul> 
+	
+</div>
+
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Ratings & Reviews"> 
+                            <a class="filter-type action " data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Ratings & Reviews
+                            </a>
+
+                            
+
+<div class="filter-options  ">
+     
+
+    <ul class="filter-available ">
+
+        
+            <li data-count="2">
+                <a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Ratings-and-Reviews_3-and-up" class="trackEvent" data-trackdata="listing page, filters, Ratings & Reviews"  data-filter-id="10260003"  data-ajax-load >
+                    <strong class="review-stars review-stars-3_0"></strong>
+                      
+                    <span>(2)</span>
+                    
+
+                </a>
+            </li>
+        
+            <li data-count="2">
+                <a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Ratings-and-Reviews_2-and-up" class="trackEvent" data-trackdata="listing page, filters, Ratings & Reviews"  data-filter-id="10260002"  data-ajax-load >
+                    <strong class="review-stars review-stars-2_0"></strong>
+                      
+                    <span>(2)</span>
+                    
+
+                </a>
+            </li>
+        
+            <li data-count="2">
+                <a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Ratings-and-Reviews_1-and-up" class="trackEvent" data-trackdata="listing page, filters, Ratings & Reviews"  data-filter-id="10260001"  data-ajax-load >
+                    <strong class="review-stars review-stars-1_0"></strong>
+                      
+                    <span>(2)</span>
+                    
+
+                </a>
+            </li>
+        
+	
+    </ul>
+
+</div>
+
+                            
+                        </section>
+                  
+                        <section class="filter-select-grp" data-filter-category-name="Filter By"> 
+                            <a class="filter-type action " data-action="bindToggleEle,scrollIntoView" data-target=":next()">
+                                Filter By
+                            </a>
+
+                            
+
+<div class="filter-options ">
+	
+		<ul class="filter-available" >
+			
+
+				<li data-count="2" data-sequence="1" data-filterId="10140001"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Filter-By_Free-Shipping"  class="trackEvent" data-trackdata="listing page, filters, Filter By" data-filterId="10140001" data-filter-name="Free Shipping"  data-ajax-load >
+						<em>Free Shipping</em>
+						
+						<span>(2)</span>
+						
+					</a>
+				</li>
+			
+
+				<li data-count="3" data-sequence="2" data-filterId="10140003"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Filter-By_In-Store-Pick-Up"  class="trackEvent" data-trackdata="listing page, filters, Filter By" data-filterId="10140003" data-filter-name="In Store Pick Up"  data-ajax-load >
+						<em>In Store Pick Up</em>
+						
+						<span>(3)</span>
+						
+					</a>
+				</li>
+			
+
+				<li data-count="3" data-sequence="3" data-filterId="10140004"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Filter-By_Kits-only"  class="trackEvent" data-trackdata="listing page, filters, Filter By" data-filterId="10140004" data-filter-name="Kits only"  data-ajax-load >
+						<em>Kits only</em>
+						
+						<span>(3)</span>
+						
+					</a>
+				</li>
+			
+
+				<li data-count="3" data-sequence="4" data-filterId="10140005"  >
+					<a href="/l/Cameras/Digital-Point-and-Shoot-Cameras?sel=Configuration_Camera-Bundle|Color_Blue|Resolution_16-MP|Media-Type_SD|Special-Features_Waterproof|Digital-Zoom_4x|Item-Condition_New-Items|Filter-By_New-Condition-Only"  class="trackEvent" data-trackdata="listing page, filters, Filter By" data-filterId="10140005" data-filter-name="New Condition Only"  data-ajax-load >
+						<em>New Condition Only</em>
+						
+						<span>(3)</span>
+						
+					</a>
+				</li>
+			 
+		</ul> 
+	
+</div>
+
+
+                            
+                        </section>
+                  
+
+            <span class="rwd-filters-close">
+	            <a class="button highlight-dark action" data-action="toggleRefine">I'm Done</a>
+            </span>
+        </div>
+    </aside>
+ 
+             </div>
+
+            
+
+            <div id="sideBannersPlaceholder">
+                
+            <//div>
+
+        </div>
+    </div>
+
+ </section>
+                                                              
+
+    
+      
+        <!-- NEW FOOTER20015 start --><div id="footer" class="cf">
+<style>
+
+#footer .feedbackCTA{
+    display:none;
+}
+
+</style><a href="/sup/static/feedback.html" class="popup feedbackCTA icon-comments trackEvent" rel="popup500 feedbackPopup" title="General Feedback" data-trackdata="Footer,Bottom,Feedback">Help</a><div id="footerInner" class="cf"><div class="col col_1"><h4>Who We Are</h4><ul><li><a class="trackEvent" data-trackdata="Footer,Column1,About Adorama" href="/aboutus/whyAdorama">About Adorama</a></li><li><a class="trackEvent" data-trackdata="Footer,Column1,Adorama Reviews" href="/pages/AdoramaReviews">Adorama Reviews</a></li><li><a class="trackEvent" data-trackdata="Footer,Column1,Map &amp; Directions" href="/help/mapAndDirections">Map &amp; Directions</a></li><li><a class="trackEvent" data-trackdata="Footer,Column1,Events" href="/pages/events">Events</a></li><li><a class="trackEvent" data-trackdata="Footer,Column1,Learning Center" href="/alc">Learning Center</a></li><li><a class="trackEvent" data-trackdata="Footer,Column1,Gift Cards" href="/SendGiftCert">Gift Cards</a></li><li><a class="trackEvent" data-trackdata="Footer,Column1,Adorama Coupons" href="/coupons">Adorama Coupons</a></li><li><a class="trackEvent" data-trackData="Footer,Column2,Shop All Brands" href="/brands">Brands</a></li><li><a class="trackEvent" data-trackdata="Footer,Column1,Affiliate Program" href="/pages/getconnected">Affiliate Program</a></li><li><a class="trackEvent" data-trackdata="Footer,Column1,Find us on Google+" href="https://plus.google.com/110837982014303057310" rel="publisher">Find us on Google+</a></li><li><a class="trackEvent" data-trackdata="Footer,Column1,Careers" href="http://adorama.theresumator.com/apply">Careers</a></li></ul><h4>Special Programs</h4><ul><li><a class="trackEvent" data-trackData="Footer,Column1,Corporate" href="/corporate">Corporate</a></li><li><a class="trackEvent" data-trackData="Footer,Column1,Education" href="/education">Education</a></li><li><a class="trackEvent" data-trackData="Footer,Column1,Government" href="/government">Government</a></li></ul></div><div class="col col_2"><h4>What We Sell</h4><div class="subCol"><h5>Cameras &amp; Lenses</h5><ul><li><a class="trackEvent" data-trackdata="Footer,Column2,Digital Cameras" href="/l/Cameras/Digital-SLR-Cameras">Digital Cameras</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Canon Digital Cameras" href="/l/Cameras/Canon~Digital-SLR-Cameras">Canon Digital Cameras</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Nikon Digital Cameras" href="/l/Cameras/Nikon~Digital-SLR-Cameras">Nikon Digital Cameras</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Pentax Digital Cameras" href="/l/Cameras/Pentax~Digital-SLR-Cameras">Pentax Digital Cameras</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Panasonic Lumix" href="/searchsite/default.aspx?searchinfo=panasonic%20lumix">Panasonic Lumix</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,SLR Lenses" href="/l/Lenses/SLR-Lenses">SLR Lenses</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Point and Shoot Digital Cameras" href="/l/Cameras/Digital-Point-and-Shoot-Cameras">Point and Shoot Digital Cameras</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Canon Powershot" href="/searchsite/default.aspx?searchinfo=canon%20powershot">Canon Powershot</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Nikon Coolpix" href="/searchsite/default.aspx?searchinfo=nikon%20coolpix">Nikon Coolpix</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Camera Memory Cards" href="/l/Video-Equipment/Video-Accessories/Recording-Media-and-Drive-Storage/Memory-Cards">Camera Memory Cards</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Forensics/ Security Dept" href="/c/Binoculars-and-Telescopes/Forensic-LE-Military-and-Shooting-Equipment">Forensics/ Security Dept</a></li></ul><h5>Video</h5><ul><li><a class="trackEvent" data-trackdata="Footer,Column2,Camcorders" href="/l/Video-Equipment/Camcorders/Consumer-Camcorders">Camcorders</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Professional Video Cameras" href="/c/Video-Equipment/Professional-Video-Cameras">Professional Video Cameras</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,HD Camcorders" href="/l/Video-Equipment/Camcorders/Consumer-Camcorders?sel=Resolution_1080-HD_720-HD">HD Camcorders</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Sony SXS Memory Cards" href="/l/Computers/Memory-and-Data-Storage/Memory-Cards-and-USB-Drives/Sony~Memory-Cards?sel=Card-Type_SxS">Sony SXS Memory Cards</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,On Camera Video Lighting" href="/c/Video-Equipment/Video-Lighting">On Camera Video Lighting</a></li></ul></div><div class="subCol subCol_2 cf"><h5>Electronics</h5><ul><li><a class="trackEvent" data-trackdata="Footer,Column2,Desktop Computers" href="/l/Computers/Desktop-Computers/Desktops">Desktop Computers</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Laptop &amp; Notebook Computers" href="/c/Computers/Notebooks-and-Ultrabooks">Laptop &amp; Notebook Computers</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,iPads / Tablets" href="/c/Computers/iPads-and-Tablets">iPads / Tablets</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Office Equipment &amp; Printers" href="/c/Printers-and-Scanners">Office Equipment &amp; Printers</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Home Theater" href="/c/TVs-and-Home-Entertainment/Home-Theater">Home Theater</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,iPods / Media Players" href="/c/TVs-and-Home-Entertainment/Portable-Electronics">iPods / Media Players</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Pro Audio" href="/c/Professional-Audio">Pro Audio</a></li></ul><h5>Used Photo Gear</h5><ul><li><a class="trackEvent" data-trackdata="Footer,Column2,Used Canon Digital Cameras" href="/l/Used/Cameras/Canon~Digital-SLR-Cameras">Used Canon Digital Cameras</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Used Canon Auto Focus Zoom Lenses" href="/l/Used/Canon~Lenses">Canon Lenses</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Used Nikon Digital Cameras" href="/l/Used/Cameras/Nikon~Digital-SLR-Cameras">Used Nikon Digital Cameras</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Used Nikon Auto Focus Zoom Lenses" href="/l/Used/Nikon~Lenses">Nikon Lenses</a></li></ul></div></div><div class="col col_3"><h4>How Can We Help?</h4><ul><li><a class="trackEvent" data-trackdata="Footer,Column3,Customer Service" href="/help">Customer Service</a></li><li><a class="trackEvent show-if-logged-out" data-trackdata="Footer,Column3,Track Your Order" href="/trackOrder">Track Your Order</a><a class="trackEvent show-if-logged-in" data-trackdata="Footer,Column3,Track Your Order" href="https://www.adorama.com/Als.Mvc/nspc/MyAccount#dashboard">Track Your Order</a></li><li><a class="trackEvent" data-trackdata="Footer,Column3,Shipping &amp; Delivery" href="/help/shippingAndDelivery">Shipping &amp; Delivery</a></li><li><a class="trackEvent" data-trackdata="Footer,Column3,In-Store Pickup" href="/help/storePickup">In-Store Pickup</a></li><li><a class="trackEvent" data-trackdata="Footer,Column3,International Orders" href="/help/InternationalOrders">International Orders</a></li><li><a class="trackEvent" data-trackdata="Footer,Column3,Return Policy" href="/help/returnPolicy">Return Policy</a></li><li><a class="trackEvent" data-trackdata="Footer,Column3,Contact Us" href="/help/contactus">Contact Us</a></li><li><a class="trackEvent" data-trackdata="Footer,Column3,Warranties" href="/help/warranties">Warranties</a></li><li><a class="trackEvent" data-trackdata="Footer,Column3,Rebate Center" href="/rebates">Rebate Center</a></li></ul><h4>More Services</h4><ul><li><a class="trackEvent" data-trackdata="Footer,Column2,Photo Printing" href="/AdoramaPix">Photo Printing</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Camera Rentals" href="https://www.adoramarentals.com/">Camera Rentals</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Sell Used Equipment" href="https://www.adorama.com/pages/usedQuote">Sell Used Equipment</a></li><li><a class="trackEvent" data-trackdata="Footer,Column2,Buy Used Equipment" href="/Used">Buy Used Equipment</a></li></ul></div><div class="col col_4"><div class="section signup"><h4>Sign Up for Special Deals</h4><p>Get exclusive access to expert tips, special offers and coupons.</p><form name="main" class="emailOptin" action="https://www.adorama.com/catalog.tpl" method="POST"><input type="hidden" name="op" value="process" /><input type="hidden" name="func" value="EmailOptin" /><input type="hidden" name="name" value="" /><input type="hidden" name="Page_Source" value="Quick Optin" /><input type="email" id="emailSubscribeInput" name="Email" size="12" maxlength="100" placeholder="Your Email Address" required="" /><input type="hidden" name="Email_Optin" value="Y" /><button id="emailSubscribeSubmit" type="submit" name="submit">Sign Up</button><input type="hidden" name="IsEmailValid" value="T" /></form><span class="value-privacy hoverInfo" title="valuePrivacy">We value your privacy</span></div><div class="section socialconnect"><h4>Connect With Us</h4><ul><li class="social_facebook" id="Li0"><a class="socialIcon" target="_blank" href="https://facebook.com/Adorama" rel="nofollow"><label /></a><div class="socialAction" /></li><li class="social_twitter" id="Li1"><a class="socialIcon" target="_blank" href="https://twitter.com/adorama" rel="nofollow" /><a class="socialAction" target="_blank" href="https://twitter.com/adorama" rel="nofollow">Twitter</a></li><li class="social_google" id="Li2"><a class="socialIcon" target="_blank" href="https://plus.google.com/110837982014303057310/posts" rel="nofollow" /><a class="socialAction" target="_blank" href="https://plus.google.com/110837982014303057310" rel="nofollow">Google +</a></li><li class="social_youTube" id="Li3"><a class="socialIcon" target="_blank" href="http://www.youtube.com/user/adoramatv" rel="nofollow"><label /></a><a class="socialAction" target="_blank" href="http://www.youtube.com/user/adoramatv" rel="nofollow">You Tube</a></li><li class="social_pintrest" id="Li4"><a class="socialIcon" target="_blank" href="http://pinterest.com/adorama/" rel="nofollow" /><a class="socialAction" target="_blank" href="http://pinterest.com/adorama/" rel="nofollow">Pinterest</a></li><li class="social_instagram" id="Li5"><a class="socialIcon" target="_blank" href="http://instagram.com/adorama/" rel="nofollow" /><a class="socialAction" target="_blank" href="http://instagram.com/adorama/" rel="nofollow">Follow @adorama</a></li></ul></div></div><div class="footerBottom"><ul class="footerCenter"><li><a data-trackdata="Footer,Bottom,Privacy Policy" href="/catalog.tpl?op=privacy_policy_popup" class="popup trackEvent" rel="popup500 privacyPop" title="Privacy Policy">Privacy Policy</a></li><li><a class="trackEvent" data-trackdata="Footer,Bottom,Terms of Use" href="/help/termsAndConditions">Terms of Use</a></li><li><p class="trackEvent tel-tollfree">800-223-2500</p></li><li class="store-schedule"><a data-trackData="Footer,Bottom,Store Hours" href="/SearchSite/Popups/Global.aspx?type=store_hours_popup" class="popup trackEvent" rel="popup500" title="Adorama Hours">Adorama Hours</a></li></ul><div class="footerCenter"><div><p><span>42 West 18th Street </span><span>New York, </span><span>NY</span><span>10011</span></p><p class="copyright">
+                    © 2018 <span>Adorama Camera, Inc.</span> All rights reserved.
+                  </p><div class="footer-webmaster"><p>
+                      Encountered problems with this site? <a href="/help/contactus" onclick="window.open('/help/contactus', 'popup', 'width=900,height=550,scrollbars=yes');return false;" class="FooterLink">Contact the webmaster</a></p></div></div></div></div></div></div><div class="securityBadges" data-lazyload-images=""><a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.adorama.com" rel="nofollow"><img data-src="//images.scanalert.com/meter/www.adorama.com/23.gif" width="94" height="54" border="0" id="scanalert" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;" /></a><a href="https://www.bbb.org/new-york-city/business-reviews/photography-equipment/adorama-camera-in-new-york-ny-2477" rel="nofollow" target="_blank"><img data-src="/artworks2/bbbseal3.gif" alt="" width="68" height="77" /></a><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--22495.html" target="_blank" rel="nofollow"><img data-src="//medals.bizrate.com/medals/dynamic/22495_medal.gif" id="bizrate" alt="" width="139" height="77" /></a><a href="http://www.bizrate.com/ratings_guide/merchant_detail__mid--22495.html?rf=sur" title="Bizrate Circle of Excellence" target="_blank"><img data-src="https://medals.bizrate.com/awards/horizontal/22495_coe.gif" alt="Bizrate Circle of Excellence - See Adorama Reviews at Bizrate.com" width="97" height="56" align="top" border="0" /></a></div><!-- NEW FOOTER20015 end-->
+    <!--[if lt IE 9]><script src="/sup/js/polyfills/json3.min.js"></script><![endif]-->  
+
+
+    
+
+
+
+    <script type="text/javascript">
+        adrma = window.adrma || {}; 
+
+        adrma.siteSettings = {"AbsoluteSiteUrl":"https://www.adorama.com","AbsoluteSecureBase":"https://www.adorama.com/","Base":"https://www.adorama.com/","CompanyEmailCustomerService":"custserv@adorama.com","CompanyName":"Adorama","CompanyCallFreePhone":"800-223-2500","DisplayPriceAlerts":true,"RichRelevanceApiKey":"222adfff27ff49a8","RichRelevanceIntegrationMode":"1","EnableTurnTo":true,"TurnToSiteKey":"tuxtVNfR3w9Htjxsite","EnableIovation":true,"LocalPhoneNumber":"212.741.0052","HideTurnToButtons":false,"EnableListingPageLazyLoading":"true","SPCPixAbsolutreUrl":"https://www.adorama.com/Als.Mvc/nspc","IsVMeEnabled":true,"isNewLeafActive":true,"newLeafResource":"//www.newleafsc.net/warranty_selector/adorama/mw_ws_adorama_2016_08.js","GoogleAnalyticsID":"UA-30760-1","IsTurnToReceiptWidgetEnabled":"True","EnableCartCouponEntry":false,"NotSecuredSPCPixAbsolutreUrl":"https://www.adorama.com/Als.Mvc/nspc","enableNeedleChat":true,"FacebookAppID":"220021344703215","enableLiveEngage":true,"FSMaximumGrandTotalPrice":2500.0,"IsCardinalSandbox":false,"ZipCodeAPIKey":"js-rSIdFVcWC0YKQtwiy928gvSwsioXq3HSVq5BlixYjvIaZesxouGFZybsQzqhC89y","PrivacyURL":"/catalog.tpl?op=privacy_policy_popup","enableRR":true,"IsTypeAheadEnabled":true,"EnablePreventFraudster":true,"SearchPageUrl":"/l/","ShoppingCartUrl":"https://www.adorama.com/Als.Mvc/nspc/ShoppingCart","IsEmailMyCartEnabled":false,"FiltersPerGroupLimit":10,"googleConversionLabel":"hZroCOmsywQQr8Pj1AM","googleConversionId":"983097775","fbRemarketingPixelID":"621836287949794","enableAdrum":true,"EnableGlobalLoader":false,"enableDdosMode":false,"enableLoginRegisterPopupTabs":true,"enableEndecaSearchLogging":true,"saleCycleClientName":"CLIENTNAME","salesCycleMode":"LIVE","LazyLoadingItemsCount":15,"EnableEnhancedECommerce":true,"CheckoutPageUrl":"https://www.adorama.com/als.mvc/nspc/revised","EnableLazyLoadImages":true,"GLPSitePageUrl":"https://www.adorama.com/g/","EnableShippingInsideCheckoutSummary":true,"IsRevisedPriceAlertEnabled":true,"ExpressCheckoutEnabled":true,"LoginFAQLink":"/sup/static/loginFAQ.html","DisplayUsedConditionOnCheckout":true,"UseUsedPopupFromDatabase":true,"HideRichRelevanceOnReceipt":false,"RevisedSessionHandling":true,"EnableCMSWizardSocialSection":true,"EnableCMSVendorLogo":true,"EnableCMSWidgetExpirationDate":true,"AllowListingAndSearchPageSearchBoxTypeAhead":true,"ShowListingAndSearchPageSearchBox":true,"EnableAdditionalAccessories":true,"AllowCMSStaticItemsItemBelt":true,"IsUseClientUtcOffset":true,"enableUpsellit":true,"cnetContent":true,"SessionKeys":"[\"sid3\", \"ASP.NET_SessionId\"]","UseAjaxListingPage":true,"AllowToShowOnlyEPDPContentOnProductPage":true,"EnableConfigurationPreSelect":true,"EnableVIPTwoDaysDelivery":true,"EnableVIP360DesignChanges":true,"VIP360ProductSku":"VIP360","VIP360LandingPageForVIPUsers":"https://www.adorama.com/g/VIP-NEW","VIP360LandingPageForVIP360Users":"https://www.adorama.com/g/VIP360","criteoKey":"2450","CartDisplayUrl":"https://www.adorama.com/Als.Mvc/CartView","EnableFacebookPixel":true,"EnableUpdateActivity":true,"HidePackagesBreadCrumb":false,"enableSoasta":false,"EnableRevisedViewForPackageItems":false,"ShowThisProductOnlyFlagShipping":false,"IsBMLMigrationEnabled":true,"EnableFlixMedia":true,"FlixmediaDistributorID":867,"FlixmediaDistributorUrl":"//media.flixfacts.com/js/loader.js","perimeterxId":"PXTY0eJULE","DefaultNoPicImageName":"NOPIC.JPG","DefaultNoPicColorImageName":"NOPIC-COLOR.JPG","UnifiedCategoryTreeEnabled":true,"KeepSearchTermEnabled":true,"EnableFundsAvailablePaymentMethod":true,"FundsAvailableLabel":"Adorama Credit","enablePhoneTracking":false,"UnifiedCategoryOnSearchPageEnabled":true,"CartIdDigitsCount":9,"enableSecuredvisit":true,"enableNeedleChatForMobile":true,"FindRelevantSearchCategory":true,"enableReflektionBeacon":true,"EditOrderOnlineEnabled":false,"UseBannersUploadingFromDatabase":true,"PurgeFastlyApiEmailForHomepageBanners":"purgefastlyapiemailforheaderglob@yahoo.com","PurgeFastlyApiKeyForHomepageBanners":"/","reflektionApiKey":"00-113083348-DViz8X1R0/MJFyc245jQ13xhfJ8YHTj/8FUoxR96XC3YrdcX","enableReflektionRecommendedItems":true,"reflektionSearchApi":"https://apis.rfksrv.com/search-rec/11248-113083348/3","reflektionAnalyticsApi":"https://apis.rfksrv.com/event/11248-113083348/3","reflektionBeacon":"//113083348-prod.rfksrv.com/rfk/js/11248-113083348/init.js","IsPushNotificationEnabled":true,"VizuryAccountId":"VIZVRM5072","VizurySWpermissionUrl":"//cdn25.vizury.com/ssp/US_Adorama/wpn5072.js","KillSW":false,"NotificationResolvingPopupAppearingFrequency":30.0,"PushNotificationFaqLink":"","ShippingNotificationDeeplink":"","DeliveryNotificationDeeplink":"","PriceDropNotificationDeeplink":"","countWishListItemsPerPage":15,"IsImportProductClipsRunning":false,"ShowSaveForLaterOnCart":false,"ShowSaveForLaterAsWishList":false,"isAskPushNotificationPermission":false,"ALLSecondaryFeaturesList":"SecondaryFeature","IsTimeMachineEnabled":true,"UsedItemNotFoundMessage":"Sorry this item is not available anymore","MaxImageSize":4194304.0,"LinkToHelpReturnPolicy":"https://www.adorama.com/help/returnpolicy","IsRMAEnabled":"1","IsRMAProductComponentsUnitedEnabled":true,"ContactUsPageLink":"https://www.adorama.com/help/contactus","CompanyPhoneNumberForRMA":"800-815-0702","MyAccountLink":"/Als.Mvc/nspc/MyAccount","IsNoCategoryLimitsToRMAExchange":true,"RMALinkToExchange":"https://www.adorama.com/","IsMinimumOrderAmountEnabled":false,"ProcessingFeeAmount":25.00,"MinimumOrderAmount":100.00,"FinancingEnabled":true,"EnableCriteo":false,"EnableSearchPageFriendlyUrl":true,"IsUseCacheForSessionAndProfile":false,"RemoveFromCartTimeout":4,"EnableRemoveFromCartDelay":true,"ShowUploadImageSectionOnUsedQuotePage":false,"UsedQuoteDescriptionFieldName":"Model","UseTypeAheadInUsedQuoteDescription":true,"ShowSubscriptionOptionsOnUsedQuotePage":true,"EndecaSearchNameSeparators":"EndecaSearchNameSeparators","CategoriesForEndecaSearchBrandModel":"CategoriesForEndecaSearchBrandModel","EnableCompareProducts":false,"enableBlueCore":true,"GaDimensionProps":true,"GaMetricProps":true,"imagePaths":{"product":"//www.adorama.com/images/product/","full":"//www.adorama.com/images/300x300/","large":"//www.adorama.com/images/Large/","xLarge":"//www.adorama.com/images/XLarge/","thumb":"//www.adorama.com/images/small/","medium":"//www.adorama.com/images/130x130/"},"cmsImagePathes":{"templateLarge":"https://www.adorama.com/images/cms/1200x750/","templateSmall":"https://www.adorama.com/images/cms/200x125/","originalSize":"https://www.adorama.com/images/cms/"},"gaDimensionProps":{"siteMod":"dimension1","bundleFlag":"dimension2","alc":"dimension3","stockStatus":"dimension4","productOptions":"dimension5","loggedIn":"dimension6","vip":"dimension7","bundleParentSKU":"dimension8","productPriceBadge":"dimension9","map":"dimension10","itemCondition":"dimension11","siteSearchType":"dimension12","searchTerm":"dimension13","freeGift":"dimension14","upsellit":"dimension15","enhancedContent":"dimension16","bundledSKU":"dimension17","siteSpect":"dimension19","fullStory":"dimension20","buyer":"dimension21","test":"dimension22","criteoSponsoredProducts":"dimension23","searchTermSERPLoad":"dimension24"},"gaMetricProps":{"searches":"metric1","searchResultsClickthru":"metric2","usedQuoteFormSubmit":"metric3","timingResponseEnd":"metric4","timingDomLoaded":"metric5","timingWindowLoad":"metric6","timingStartPaint":"metric7","searchesSERPLoad":"metric8"},"IsAdoramaSite":true,"MaxFileUploadSize":2097152,"ServerUtcOffset":-4.0};
+
+        adrma.pageInfo = 
+        {
+            siteId: "AD",
+            gaID: "UA-30760-1",
+            version: "1.0",
+            servedBy: "83",
+            cacheVersion: 460,
+            calendarVersion: 0,
+            pageType: "listPage",
+            
+            subPageType: "revisedSearchPage",
+            
+            pageGroup: "product",
+            isNeedTrackPage: "True",
+            mobileUrl: adrma.siteSettings.MobileAbsoluteSiteUrl,
+            id: "INKAW120BLB",
+            pageId: "INKAW120BLB",
+            priceMode: "",
+            shortTitle: "Search for inkaw120blb",               
+            productVersion: 20161123083530,
+            webCollageContent: false,
+            allowSellPointContent: false,
+            hasZoomImage: true,
+            isEmailPrice: false,
+            urlParams: { "op":"recommended","searchinfo":"inkaw120blb","realpath":"/RecommendFor/inkaw120blb.html" },
+            
+            holidayMessage: "\u003cp\u003e\u003cstrong\u003eAdorama will be closed in observance of Passover from Friday afternoon, March 30th until Saturday, April 7th. All Orders placed during those times will be shipped after we re-open. \u003ca href=\"/searchsite/popups/global.aspx?type=passover_2018\" class=\"popup\" data-popup-class=\"popup800\" title=\"Passover Holiday Schedule\"\u003eView our holiday shipping schedule.\u003c/a\u003e\u003c/strong\u003e\u003c/p\u003e",
+            
+            perPage: 15,
+            
+            isWaitLoadDispatcher: false,
+            
+            skus :[
+  "IPCDMCTS30BN",
+  "IPCDMCTS30BB",
+  "IPCDMCTS30BA"
+],
+            
+            mode:"",
+            searchCategory:'',
+            searchSelParam:'',
+            
+            cKeys:{ 
+                        priceMode:"0|0|0|0|0",pagePriceMode:"0|0|0|0|0",
+                    
+                country:"IT",
+                productVersion : 20161123083530,
+                perPage : 15,
+                sort : "",
+                descSort : "",
+                isVip : false,
+                isLoggedIn : false,
+                isVip360 : false,
+
+                
+                        mode:"",
+                    
+                    isFreeShipPromo:false
+                    },
+
+            
+            hasRebates: false,
+            isNeedFreeItemPopup: false,
+            allowCnetContent: false,
+            allowFlixmediaContent: false,
+            hideNeedleChat: false,
+            enableVip360ForCurrentMode: true,
+            enableVip2DayDeliveryForCurrentMode: true,
+            lcuVersion: 57732,
+              
+        };
+    </script> 
+    
+         
+
+    <!-- JS adrma.pageInfo.pageRouteData -->
+    
+
+    <!-- JS adrma.productData -->
+     
+
+    <!-- JS Combress -->
+    <script type="text/javascript" src="https://www.adorama.com/Als.Mvc/nspc/combres.axd/AD_CoreJs/-/?svfor=1day&svcfor=1day&cacheVersion=460&ID=11960"></script>
+                <script type="text/javascript" src="https://www.adorama.com/Als.Mvc/nspc/combres.axd/AD_RevisedListingPageJs/-/?svfor=1day&svcfor=1day&cacheVersion=460&ID=11960"></script>
+        
+
+    
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+            window.dataLayer.push({'sitetype': adrma.is && adrma.is.mobile ? "Mobile" : "Desktop"});
+        </script>
+        <script type="text/scriptString" class="scriptString">
+            (function(w,d,s,l,i){var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-T5VX63');
+        </script>
+    
+    <div itemscope="" itemtype="http://schema.org/LocalBusiness" class="hide">
+        <meta itemprop="name" content= "Adorama"/>
+        <img class="logo flLeft trackEvent" src="//www.adorama.com/artworks2/adorama-logo.png" alt="" title="" data-trackdata="Global Navigation,Navigation Level 1" itemprop="image" />
+        <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+            <p>
+                <span itemprop="streetAddress">42 West 18th Street</span>
+                <span itemprop="addressLocality">New York, </span>
+                <span itemprop="addressRegion">NY</span>
+                <span itemprop="postalCode">10011</span>
+            </p>
+            <p class="copyright"><span itemprop="name">Adorama</span>
+            </p>
+        </div>
+        <div itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+            <meta itemprop="latitude" content="40.739238" />
+            <meta itemprop="longitude" content="-73.993886" />
+         </div>
+    </div>
+    
+<script>
+window.SS && SS.requireCoreJs(function () {
+
+	SS.SPA.dynamicModify({
+		"staticContainer" : "html",
+		"dynamicContainer" : "p.availability",
+		"callbackFunction" : function () {
+
+			window.$ && $("p.availability").each(function (index) {
+
+				var text = $(this).html();
+
+				if (/in stock online/gi.test(text)) {
+
+					text = text.replace(/in stock online/gi, 'Ships from Manufacturer');
+					$(this).html(text);
+
+					var message = $(this).find("span.hoverTips").text();
+
+					$(this).after("<p><b>" + message + "</b></p>");
+					$(this).find("span.hoverTips").remove();
+
+				}
+			});
+		},
+		"runCallbackNow" : false,
+		"watchSubtree" : true
+	});
+});
+</script>
+<style>
+.pr-snapshot.reviews-snip{
+display:none;
+}
+.mention p{
+  font-size: 1.125em;
+  line-height: 1.2!important;
+  font-family: 'opensans';
+}
+.fl_app.carousel{
+  background: #fff;
+}
+.fltr_app{
+  margin: 0 auto 2vh!important;
+}
+.fl_app.carousel{
+  margin-bottom: 0!important;
+}
+.sell-points-hr li.tag{
+  padding:0!important;
+}
+.fltr_app .appHeader .anchor{display:none;}
+</style>
+<script type="text/scriptString" class="scriptString">
+var productTitle = $('[name="twitter:title"]').attr("content"); 
+$(".sell-points-hr").after('<div class="fltr_app" data-keyphrase="'+productTitle+'"></div>');
+
+(function() {
+  function fgp(e) {
+    var n = window.location.href;
+    e = e.replace(/[\[\]]/g, "\\$&");
+    var
+      r = new RegExp("[?&]" + e + "(=([^&#]*)|&|#|$)").exec(n);
+    return
+    r ? r[2] ? decodeURIComponent(r[2].replace(/\+/g, " ")) : "" : null
+  }
+  var host = document.location.host;
+  if (fgp('referrer')) host = fgp('referrer');
+  var fltr = document.createElement('script');
+  fltr.type = 'text/javascript';
+  fltr.async = true;
+  fltr.src = ('https:' == document.location.protocol ? 'https://' : 'http://') +
+    'scriptcdn.feelter.com/scripts/feelter.js?referrer=' + host;
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(fltr, s);
+})();
+</script>
+<!-- SiteSpect GA Integration -->
+<script type="text/javascript">
+(function () {
+
+	function waitForGA(callback) {
+		if (window.ga) {
+			return callback();
+		} else {
+			if (document.readyState !== 'complete') {
+				return setTimeout(waitForGA.bind(null, callback), 30);
+			}
+		}
+	}
+
+	waitForGA(function () {
+		var ss_watts = "In_Stock Online:Ship From Manufacturer,All Traffic:VG1,WEB_66053 _ Feelter 3rd party Implementation v3:Variation Group 2";
+		ss_watts = ss_watts.replace(/[^0-9a-z:,]+/gi, "");
+		ss_watts = ss_watts.replace(/variationgroup/gi, "vg");
+		ss_watts = ss_watts.replace(/original/gi, "ctrl");
+		ga('set', 'dimension19', ss_watts);
+
+		window.SS && SS.requireCoreJs(function () {
+			SS.EventTrack && SS.EventTrack.rp && SS.EventTrack.rp("watts-ga-sent");
+		});
+	});
+}
+	());
+</script><script defer src="/__ssobj/static/sitespect-libraries-v2.js"></script><script>window.SS&&SS.requireCoreJs(function(){SS.Debug.trackJSErrors();});</script></body>
+</html>
